@@ -77,6 +77,6 @@ If you like this project and find it helpful, consider supporting its developmen
 
 <p align="center">
   <a href="https://buymeacoffee.com/adityasahu">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="65">
   </a>
 </p>
