@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="Screenshots/header_banner.png" alt="Première Banner" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Screenshots/banner_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="Screenshots/banner_light.png">
+    <img src="Screenshots/banner_dark.png" alt="Première" width="480">
+  </picture>
 </p>
 
 <p align="center">
@@ -7,7 +11,7 @@
   <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
   <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose" /></a>
   <a href="https://m3.material.io/"><img src="https://img.shields.io/badge/Design-Material%203-black?style=flat-square" alt="Material 3" /></a>
-  <a href="https://buymeacoffee.com/adityasahu"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+  <a href="https://buymeacoffee.com/adityasahu"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
 </p>
 
 <p align="center">
@@ -18,24 +22,13 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="Screenshots/showcase.png" alt="Première Showcase" width="100%" />
-</p>
+<img src="Screenshots/Screenshot_20261028_180416_Premire.png" width="100%" alt="Card Deck" />
 
-<p align="center">
-  <img src="Screenshots/Screenshot_20261028_180416_Premire.png" alt="Home Deck" width="49%" />
-  <img src="Screenshots/Screenshot_20261028_180420_Premire.png" alt="Timeline Feed" width="49%" />
-</p>
+<img src="Screenshots/Screenshot_20261028_180420_Premire.png" width="49%" alt="Timeline Feed" /> <img src="Screenshots/Screenshot_20261028_180400_Premire.png" width="49%" alt="Movie Details" />
 
-<p align="center">
-  <img src="Screenshots/Screenshot_20261028_180400_Premire.png" alt="Movie Details" width="49%" />
-  <img src="Screenshots/Screenshot_20261028_180520_Premire.png" alt="Digital Ticket Pass" width="49%" />
-</p>
+<img src="Screenshots/Screenshot_20261028_180520_Premire.png" width="49%" alt="Digital Ticket Pass" /> <img src="Screenshots/Screenshot_20261028_180430_Premire.png" width="49%" alt="Theatrical History" />
 
-<p align="center">
-  <img src="Screenshots/Screenshot_20261028_180430_Premire.png" alt="Theatrical History" width="49%" />
-  <img src="Screenshots/Screenshot_20261028_180440_Premire.png" alt="Settings & Integrations" width="49%" />
-</p>
+<img src="Screenshots/Screenshot_20261028_180440_Premire.png" width="49%" alt="Settings & Integrations" />
 
 ---
 
