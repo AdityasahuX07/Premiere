@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshots/banner.png" alt="Première Banner" width="100%" />
+  <img src="Screenshots/header_banner.png" alt="Première Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -18,13 +18,24 @@
 
 ## 📸 Screenshots
 
-| Card Deck | Timeline Feed | Movie Details |
-|:---:|:---:|:---:|
-| <img src="Screenshots/Screenshot_20261028_180416_Premire.png" width="260" alt="Card Deck" /> | <img src="Screenshots/Screenshot_20261028_180420_Premire.png" width="260" alt="Timeline Feed" /> | <img src="Screenshots/Screenshot_20261028_180400_Premire.png" width="260" alt="Movie Details" /> |
+<p align="center">
+  <img src="Screenshots/showcase.png" alt="Première Showcase" width="100%" />
+</p>
 
-| Digital Ticket Pass | Theatrical History | Settings & Integrations |
-|:---:|:---:|:---:|
-| <img src="Screenshots/Screenshot_20261028_180520_Premire.png" width="260" alt="Digital Ticket Pass" /> | <img src="Screenshots/Screenshot_20261028_180430_Premire.png" width="260" alt="Theatrical History" /> | <img src="Screenshots/Screenshot_20261028_180440_Premire.png" width="260" alt="Settings & Integrations" /> |
+<p align="center">
+  <img src="Screenshots/Screenshot_20261028_180416_Premire.png" alt="Home Deck" width="49%" />
+  <img src="Screenshots/Screenshot_20261028_180420_Premire.png" alt="Timeline Feed" width="49%" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot_20261028_180400_Premire.png" alt="Movie Details" width="49%" />
+  <img src="Screenshots/Screenshot_20261028_180520_Premire.png" alt="Digital Ticket Pass" width="49%" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot_20261028_180430_Premire.png" alt="Theatrical History" width="49%" />
+  <img src="Screenshots/Screenshot_20261028_180440_Premire.png" alt="Settings & Integrations" width="49%" />
+</p>
 
 ---
 
