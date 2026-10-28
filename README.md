@@ -1,8 +1,34 @@
-# Première 🎬
+<p align="center">
+  <img src="Screenshots/banner.png" alt="Première Banner" width="100%" />
+</p>
 
-A modern Android application for discovering upcoming theatrical movie releases, managing tickets, setting release notifications, and tracking theatrical movies watched history.
+<p align="center">
+  <a href="https://github.com/AdityasahuX07/Premiere"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform" /></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+  <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose" /></a>
+  <a href="https://m3.material.io/"><img src="https://img.shields.io/badge/Design-Material%203-black?style=flat-square" alt="Material 3" /></a>
+  <a href="https://buymeacoffee.com/adityasahu"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+</p>
 
-## Features
+<p align="center">
+  <b>A modern Android application for discovering upcoming theatrical movie releases, managing tickets, setting release notifications, and tracking theatrical movies watched history.</b>
+</p>
+
+---
+
+## 📸 Screenshots
+
+| Card Deck | Timeline Feed | Movie Details |
+|:---:|:---:|:---:|
+| <img src="Screenshots/Screenshot_20261028_180416_Premire.png" width="260" alt="Card Deck" /> | <img src="Screenshots/Screenshot_20261028_180420_Premire.png" width="260" alt="Timeline Feed" /> | <img src="Screenshots/Screenshot_20261028_180400_Premire.png" width="260" alt="Movie Details" /> |
+
+| Digital Ticket Pass | Theatrical History | Settings & Integrations |
+|:---:|:---:|:---:|
+| <img src="Screenshots/Screenshot_20261028_180520_Premire.png" width="260" alt="Digital Ticket Pass" /> | <img src="Screenshots/Screenshot_20261028_180430_Premire.png" width="260" alt="Theatrical History" /> | <img src="Screenshots/Screenshot_20261028_180440_Premire.png" width="260" alt="Settings & Integrations" /> |
+
+---
+
+## ✨ Features
 
 - 🎟️ **Upcoming Releases & Discovery**: Browse upcoming movies and release dates powered by TMDB.
 - 🍿 **Ticket & Watchlist Tracking**: Save upcoming movies to your watchlist and track ticket bookings.
@@ -11,7 +37,7 @@ A modern Android application for discovering upcoming theatrical movie releases,
 - 💾 **Local Offline Storage**: Room database for persistent movie and ticket storage with backup & export capabilities.
 - 🎨 **Modern UI**: Built 100% with Jetpack Compose, Material 3, fluid animations, and custom typography.
 
-## Tech Stack & Architecture
+## 🛠️ Tech Stack & Architecture
 
 - **Language**: [Kotlin](https://kotlinlang.org/)
 - **UI Framework**: [Jetpack Compose](https://developer.android.com/jetpack/compose) + [Material 3](https://m3.material.io/)
@@ -23,7 +49,7 @@ A modern Android application for discovering upcoming theatrical movie releases,
 - **Background Work**: [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - **Preferences**: [Jetpack DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 - Android Studio Ladybug / Meerkat or later
@@ -39,9 +65,8 @@ A modern Android application for discovering upcoming theatrical movie releases,
 3. Sync Gradle and run the application on an emulator or physical device.
 4. (Optional) Add your TMDB and OMDB API keys via the in-app Settings panel to enable real-time searches and detailed metadata.
 
-## Support
+## ☕ Support
 
 If you like this project and find it helpful, consider supporting its development:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityasahu)
-
