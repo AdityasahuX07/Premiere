@@ -26,9 +26,6 @@
   <img src="Screenshots/Screenshot_20261028_180416_Premire.png" width="32%" alt="Card Deck" />
   <img src="Screenshots/Screenshot_20261028_180420_Premire.png" width="32%" alt="Timeline Feed" />
   <img src="Screenshots/Screenshot_20261028_180400_Premire.png" width="32%" alt="Movie Details" />
-</p>
-
-<p align="center">
   <img src="Screenshots/Screenshot_20261028_180520_Premire.png" width="32%" alt="Digital Ticket Pass" />
   <img src="Screenshots/Screenshot_20261028_180430_Premire.png" width="32%" alt="Theatrical History" />
   <img src="Screenshots/Screenshot_20261028_180440_Premire.png" width="32%" alt="Settings & Integrations" />
