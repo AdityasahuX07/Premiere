@@ -20,6 +20,17 @@
 
 ---
 
+## ✨ Features
+
+- 🎟️ **Upcoming Releases & Discovery**: Browse upcoming movies and release dates powered by TMDB.
+- 🍿 **Ticket & Watchlist Tracking**: Save upcoming movies to your watchlist and track ticket bookings.
+- 🔔 **Smart Reminders**: Automated notifications for movie release dates and booked shows using WorkManager and exact alarms.
+- 🎞️ **Detailed Movie Insights**: Ratings, cast, synopsis, runtime, certifications, and trailers (TMDB & OMDB integration).
+- 💾 **Local Offline Storage**: Room database for persistent movie and ticket storage with backup & export capabilities.
+- 🎨 **Modern UI**: Built 100% with Jetpack Compose, Material 3, fluid animations, and custom typography.
+
+---
+
 ## 📸 Screenshots
 
 <p align="center">
@@ -32,15 +43,6 @@
 </p>
 
 ---
-
-## ✨ Features
-
-- 🎟️ **Upcoming Releases & Discovery**: Browse upcoming movies and release dates powered by TMDB.
-- 🍿 **Ticket & Watchlist Tracking**: Save upcoming movies to your watchlist and track ticket bookings.
-- 🔔 **Smart Reminders**: Automated notifications for movie release dates and booked shows using WorkManager and exact alarms.
-- 🎞️ **Detailed Movie Insights**: Ratings, cast, synopsis, runtime, certifications, and trailers (TMDB & OMDB integration).
-- 💾 **Local Offline Storage**: Room database for persistent movie and ticket storage with backup & export capabilities.
-- 🎨 **Modern UI**: Built 100% with Jetpack Compose, Material 3, fluid animations, and custom typography.
 
 ## 🛠️ Tech Stack & Architecture
 
