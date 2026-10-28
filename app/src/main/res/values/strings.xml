@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Première</string>
+    <string name="notification_channel_name">Movie Reminders</string>
+    <string name="notification_channel_desc">Notifications for upcoming theatrical releases you have saved</string>
+    <string name="search_hint">Search upcoming movies…</string>
+    <string name="empty_home_title">No Releases Tracked</string>
+    <string name="empty_home_subtitle">Swipe down to search and add movies to your reminders.</string>
+    <string name="shortcut_tickets_short">Your tickets</string>
+    <string name="shortcut_tickets_long">Open your tickets</string>
+    <string name="shortcut_tickets_disabled">Shortcut is disabled</string>
+</resources>

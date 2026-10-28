@@ -1,0 +1,37 @@
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+.gradle/
+.kotlin/
+
+# Local configuration
+local.properties
+/local.properties
+
+# Build outputs
+build/
+/build
+app/build/
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+.externalNativeBuild
+.cxx
+captures/
+.DS_Store
+
+# Log files
+*.log
+hs_err_pid*
+
+# Root scratch and temporary files
+/*.txt
+/*.zip
+/*.kt
+app/*.zip

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="tickets"
+        android:enabled="true"
+        android:icon="@drawable/ic_ticket"
+        android:shortcutShortLabel="@string/shortcut_tickets_short"
+        android:shortcutLongLabel="@string/shortcut_tickets_long"
+        android:shortcutDisabledMessage="@string/shortcut_tickets_disabled">
+        <intent
+            android:action="com.example.premiere.ACTION_OPEN_TICKETS"
+            android:targetPackage="com.example.premiere"
+            android:targetClass="com.example.premiere.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>
