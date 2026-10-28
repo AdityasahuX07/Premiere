@@ -38,3 +38,10 @@ A modern Android application for discovering upcoming theatrical movie releases,
 2. Open the project in Android Studio.
 3. Sync Gradle and run the application on an emulator or physical device.
 4. (Optional) Add your TMDB and OMDB API keys via the in-app Settings panel to enable real-time searches and detailed metadata.
+
+## Support
+
+If you like this project and find it helpful, consider supporting its development:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityasahu)
+
