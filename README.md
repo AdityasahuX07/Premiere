@@ -73,12 +73,10 @@
 
 ## ☕ Support
 
-<p align="center">
-  If you like this project and find it helpful, consider supporting its development:
-</p>
+If you like this project and find it helpful, consider supporting its development:
 
 <p align="center">
   <a href="https://buymeacoffee.com/adityasahu">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" />
   </a>
 </p>
