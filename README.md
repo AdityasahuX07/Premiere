@@ -1,6 +1,6 @@
 # Première 🎬
 
-A modern Android application for discovering upcoming theatrical movie releases, managing tickets, setting release notifications, and tracking movie history.
+A modern Android application for discovering upcoming theatrical movie releases, managing tickets, setting release notifications, and tracking theatrical movies watched history.
 
 ## Features
 
